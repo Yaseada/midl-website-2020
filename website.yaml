@@ -7,8 +7,9 @@ content: "placeholder"
 twitter: "midl_conference"
 youtube: "channel/UCd87UPUTt-oqTeGi8fQw-_w"
 github: "MIDL-Conference/midl-website-2020"
+
 show_twitter_feed: no
-show_platform_icons: yes
+show_platform_icons: no
 
 nav:
   - title: "Home"
